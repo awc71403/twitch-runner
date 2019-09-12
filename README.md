@@ -1,4 +1,5 @@
-# twitch-runner
+# Twitch Runner 
+https://c1rcu1t.itch.io/twitch-runner 
 This game allows you to interact with your stream in a very miniature racing game.
 Instructions:
 - In order to play you much have access to a Twitch account. The game runs based off a twitch chat.  https://twitchapps.com/tmi/
